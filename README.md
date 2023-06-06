@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles config
+- personal dotfiles config
